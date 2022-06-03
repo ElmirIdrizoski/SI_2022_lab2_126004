@@ -1,1 +1,2 @@
-# SI_2022_lab2_126004
+Idrizoski Elmir 126004
+SI_2022_lab2_126004
